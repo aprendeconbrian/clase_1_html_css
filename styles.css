@@ -1,0 +1,38 @@
+body {
+    margin: 0;;
+}
+
+#navegacion-principal {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    background: aqua;
+    padding: 20px;
+}
+
+#navegacion-principal .link-de-navegacion{
+    color: blue;
+    display: inline;
+    margin: 0 50px;
+    
+}         
+#navegacion-principal .link-de-navegacion:hover{
+    color: yellow;
+}         
+
+.section-general{
+    width: 100%;
+    max-width: 1200px;
+    background-color: pink;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+.section-miperfil{
+    background-color: powderblue;
+}
+
+#foto-de-perfil{
+
+}
